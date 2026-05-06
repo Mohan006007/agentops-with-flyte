@@ -1,6 +1,6 @@
 # 🚀 AgentOps with Flyte
 
-Hands-on AgentOps implementation using Flyte for orchestrating AI agent workflows, task automation, monitoring, and distributed execution pipelines.
+Production-style AgentOps orchestration platform using Flyte, Gemini AI, Kubernetes, and distributed workflow execution with real-time observability.
 
 ---
 
